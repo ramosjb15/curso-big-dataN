@@ -1,7 +1,5 @@
 # 1ºclase: 
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style> 
+
 a)notebook  sobre Print.
 b) notebook sobre If.
 # 2ªClase: 
@@ -12,3 +10,8 @@ a) notebook sobre Spark
 b) notebook sobre RDDs
 c) notebook sobre Transformaciones y Acciones sobre RDDs
 # curso-big-dataN
+<ol type="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
