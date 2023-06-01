@@ -1,4 +1,7 @@
 # 1ºclase: 
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+</style> 
 a)notebook  sobre Print.
 b) notebook sobre If.
 # 2ªClase: 
