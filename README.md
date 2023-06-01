@@ -11,6 +11,7 @@
   <li>notebook sobre Bucles.</li>
   <li>notebook sobre Programación funcional.</li>
 </ol>
+
 # 3ªClase: 
 
 <ol type="a">
