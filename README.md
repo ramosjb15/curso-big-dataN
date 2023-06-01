@@ -1,6 +1,6 @@
 # 1ºclase: 
-a. notebook  sobre Print.
-b. notebook sobre If.
+A. notebook  sobre Print.
+B. notebook sobre If.
 # 2ªClase: 
 a) notebook sobre Bucles.
 b) notebook sobre Programación funcional.
