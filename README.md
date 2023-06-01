@@ -1,13 +1,22 @@
 # 1ºclase: 
+
 <ol type="a">
   <li>notebook  sobre Print.</li>
   <li>notebook sobre If.</li>
 </ol>
+
 # 2ªClase: 
-a) notebook sobre Bucles.
-b) notebook sobre Programación funcional.
+
+<ol type="a">
+  <li>notebook sobre Bucles.</li>
+  <li>notebook sobre Programación funcional.</li>
+</ol>
 # 3ªClase: 
-a) notebook sobre Spark
-b) notebook sobre RDDs
-c) notebook sobre Transformaciones y Acciones sobre RDDs
+
+<ol type="a">
+  <li>notebook sobre Spark</li>
+  <li>notebook sobre RDDs</li>
+  <li>notebook sobre Transformaciones y Acciones sobre RDDs.</li>
+</ol>
+
 # curso-big-dataN
